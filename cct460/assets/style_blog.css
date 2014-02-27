@@ -1,0 +1,44 @@
+
+	a:link {color:#333;}    /* unvisited link */
+	a:visited {color:#71A32F;} /* visited link */
+	a:hover {background-color:#71A32F;
+		color: white;}   /* mouse over link */
+	a:active {color:#71A32F;}  /* selected link */
+
+body {
+	background: white;
+	font-family:"Helvetica"; 
+	font-weight: 400; 
+	color: #555; 
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+	margin: 50px 20px;
+	letter-spacing: 0.05em;
+	}
+
+#main {
+	width: 960px;
+	padding: 20px 50px;
+	display: block;
+	}
+
+h1 {
+	background: white;
+	color: #71A32F; 
+	height: 40px;
+	text-align: center;
+	padding: 0 auto;
+	}
+
+h2 {
+	colour: #333;
+	font-weight: 200;
+	padding: 0 auto;
+	}
+
+p {
+	color: #333;
+	background-color: white;
+	}
+
+}
+

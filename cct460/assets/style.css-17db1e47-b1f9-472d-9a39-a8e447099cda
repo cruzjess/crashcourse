@@ -1,0 +1,35 @@
+body {
+	background: white;
+	font-family:"Helvetica Neue"; 
+	font-weight: 400; 
+	color: #555; 
+	font-smooth:always;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+	width: 960px;
+	margin: 0 auto;
+	}
+
+form {
+	background-color: #C0C0C0;
+	width: 400 px;
+	float: right;
+	line-height: 50 px;
+	 }
+
+h1  {
+	background: white;
+	color: #336600;
+	height: 60px;
+	text-align: center;
+	
+	}
+
+h2 {
+
+}
+
+
+}
+
